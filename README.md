@@ -38,10 +38,6 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/@jahnavi_2914" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:jahnavijanu836@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-## 🌐 Connect with Me  
-<p align="left">
 <a href="https://linkedin.com/in/jahnavi-chowdhary-941754377" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
