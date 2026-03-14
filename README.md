@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Jahnavi Chowdhary</h1>
-<h3 align="center">🎓 MCA Graduate | 💻 Full Stack Developer (in progress) | 📊 Aspiring Project Coordinator</h3>
+<h3 align="center">🎓 MCA Graduate | 💻 Full Stack Developer (in progress)</h3>
 
 <!-- Banner / Cover Image -->
 <p align="center">
